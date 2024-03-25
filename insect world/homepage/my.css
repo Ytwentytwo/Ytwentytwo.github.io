@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+
+body {
+    font: 14px/1.5 "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei",sans-serif;
+    color: #7f8c7e;
+}
+
+a {
+    color: #7f8c7e;
+    text-decoration: none;
+}

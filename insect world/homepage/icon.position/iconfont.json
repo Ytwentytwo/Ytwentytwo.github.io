@@ -1,0 +1,16 @@
+{
+  "id": "4460447",
+  "name": "insect world",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5353505",
+      "name": "导航地址",
+      "font_class": "daohangdizhi",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    }
+  ]
+}
